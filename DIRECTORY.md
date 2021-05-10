@@ -220,17 +220,6 @@
   * [TwoPointers](https://github.com/TheAlgorithms/Java/blob/master/Others/TwoPointers.java)
   * [WorstFit](https://github.com/TheAlgorithms/Java/blob/master/Others/WorstFit.java)
 
-## ProjectEuler
-  * [Problem01](https://github.com/TheAlgorithms/Java/blob/master/ProjectEuler/Problem01.java)
-  * [Problem02](https://github.com/TheAlgorithms/Java/blob/master/ProjectEuler/Problem02.java)
-  * [Problem03](https://github.com/TheAlgorithms/Java/blob/master/ProjectEuler/Problem03.java)
-  * [Problem04](https://github.com/TheAlgorithms/Java/blob/master/ProjectEuler/Problem04.java)
-  * [Problem06](https://github.com/TheAlgorithms/Java/blob/master/ProjectEuler/Problem06.java)
-  * [Problem07](https://github.com/TheAlgorithms/Java/blob/master/ProjectEuler/Problem07.java)
-  * [Problem09](https://github.com/TheAlgorithms/Java/blob/master/ProjectEuler/Problem09.java)
-  * [Problem10](https://github.com/TheAlgorithms/Java/blob/master/ProjectEuler/Problem10.java)
-  * [Problem12](https://github.com/TheAlgorithms/Java/blob/master/ProjectEuler/Problem12.java)
-
 ## Searches
   * [BinarySearch](https://github.com/TheAlgorithms/Java/blob/master/Searches/BinarySearch.java)
   * [InterpolationSearch](https://github.com/TheAlgorithms/Java/blob/master/Searches/InterpolationSearch.java)
